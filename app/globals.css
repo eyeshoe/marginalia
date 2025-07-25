@@ -1,0 +1,261 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-inter: 'Inter', sans-serif;
+  --font-buenard: 'Buenard', serif;
+  --font-caveat: 'Caveat', cursive;
+  
+  /* Colors */
+  --color-cream: #FFF8F3;
+  --color-paper: #FFFBF7;
+  --color-charcoal: #2C2C2C;
+  --color-grey: #6B6B6B;
+  --color-light-grey: #E8E8E8;
+  --color-blue: #4A90E2;
+  --color-pink: #FFB6C1;
+  --color-yellow: #FFE4B5;
+  --color-error: #E74C3C;
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-paper: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--color-cream);
+  color: var(--color-charcoal);
+  font-family: var(--font-inter);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Paper texture background */
+.paper-bg {
+  background-color: var(--color-paper);
+  background-image: 
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.02) 2px,
+      rgba(0, 0, 0, 0.02) 4px
+    );
+  position: relative;
+}
+
+/* Dot grid pattern */
+.dot-grid-bg {
+  background-image: radial-gradient(circle, #d1d1d1 1px, transparent 1px);
+  background-size: 20px 20px;
+  opacity: 0.3;
+}
+
+/* Button base styles */
+.btn {
+  font-family: var(--font-inter);
+  font-weight: 500;
+  padding: 12px 32px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 14px;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn:active {
+  transform: translateY(0);
+}
+
+.btn-primary {
+  background-color: var(--color-charcoal);
+  color: white;
+}
+
+.btn-secondary {
+  background-color: white;
+  color: var(--color-charcoal);
+  border: 2px solid var(--color-charcoal);
+}
+
+/* Form styles */
+.form-input {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid var(--color-light-grey);
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: var(--font-inter);
+  transition: all 0.2s ease;
+  background-color: white;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--color-blue);
+  box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+.form-input-error {
+  border-color: var(--color-error) !important;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: var(--color-charcoal);
+  font-size: 14px;
+}
+
+.form-error {
+  color: var(--color-error);
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+/* Washi tape styles */
+.washi-tape {
+  position: absolute;
+  height: 32px;
+  background-image: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(255, 255, 255, 0.1) 10px,
+    rgba(255, 255, 255, 0.1) 20px
+  );
+  opacity: 0.9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.washi-pink {
+  background-color: var(--color-pink);
+}
+
+.washi-yellow {
+  background-color: var(--color-yellow);
+}
+
+/* Card styles */
+.card {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-paper);
+  position: relative;
+  overflow: visible;
+}
+
+/* Form input container */
+.form-input-container {
+  margin-bottom: 1rem;
+}
+
+/* Password strength indicator */
+.password-strength {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+}
+
+/* Username check loading */
+.username-check-loading {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.75rem;
+  color: var(--color-grey);
+}
+
+/* Signup form specific styles */
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Link styles */
+a:hover {
+  text-decoration: underline;
+}
+
+/* Utility classes */
+.font-buenard {
+  font-family: var(--font-buenard);
+}
+
+.font-caveat {
+  font-family: var(--font-caveat);
+}
+
+.text-charcoal {
+  color: var(--color-charcoal);
+}
+
+.text-grey {
+  color: var(--color-grey);
+}
+
+.text-blue {
+  color: var(--color-blue);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .btn {
+    padding: 10px 24px;
+    font-size: 13px;
+  }
+  
+  .form-input {
+    font-size: 14px;
+    padding: 10px 14px;
+  }
+}

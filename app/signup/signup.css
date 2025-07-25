@@ -1,0 +1,267 @@
+/* Import design tokens */
+@import '../../components/ui/design-tokens.css';
+
+.signup-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4xl) var(--space-xl);
+  position: relative;
+  z-index: 2;
+}
+
+/* Card styles */
+.background-shadow {
+  background: var(--bg-white);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+  padding: var(--space-4xl) var(--space-3xl);
+  max-width: 400px;
+  width: 100%;
+  position: relative;
+  overflow: visible;
+  transform: rotate(var(--card-rotation));
+}
+
+/* Washi tape styles */
+.gradient {
+  position: absolute;
+  top: -8px;
+  left: var(--space-2xl);
+  width: 60px;
+  height: 16px;
+  background: var(--washi-pink);
+  transform: rotate(-2deg);
+  border-radius: var(--radius-sm);
+}
+
+.gradient-2 {
+  position: absolute;
+  top: -6px;
+  right: var(--space-3xl);
+  width: 50px;
+  height: 14px;
+  background: var(--washi-yellow);
+  transform: rotate(3deg);
+  border-radius: var(--radius-sm);
+}
+
+/* Header section */
+.overlap-group {
+  text-align: center;
+  margin-bottom: var(--space-2xl);
+  margin-top: var(--space-sm);
+}
+
+.heading-join {
+  font-family: var(--font-heading);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+}
+
+.text-wrapper {
+  font-family: var(--font-handwritten);
+  font-size: var(--text-base);
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* Form field styles */
+.form-field {
+  margin-bottom: var(--space-lg);
+}
+
+.form-field label {
+  display: block;
+  font-family: var(--font-handwritten);
+  font-size: var(--text-base);
+  color: var(--text-primary);
+  margin-bottom: var(--space-xs);
+  font-weight: 400;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.input-wrapper input {
+  width: 100%;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px dashed var(--border-light);
+  border-radius: var(--radius-md);
+  background: var(--bg-primary);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  color: var(--text-primary);
+  transition: all 0.3s ease;
+  box-sizing: border-box;
+}
+
+.input-wrapper input:focus {
+  outline: none;
+  border-color: var(--primary);
+  border-style: solid;
+  background: var(--bg-white);
+}
+
+.input-wrapper input::placeholder {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Error states */
+.input-wrapper.error input {
+  border-color: var(--error);
+  border-style: solid;
+  background: #FDF8F8;
+}
+
+.error-message {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  color: var(--error);
+  margin-top: var(--space-xs);
+  display: block;
+}
+
+.helper-text {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  margin-top: var(--space-xs);
+  display: block;
+}
+
+/* Password strength indicator */
+.overlap-2 {
+  position: relative;
+}
+
+.password-strength {
+  display: flex;
+  gap: 3px;
+  margin-top: 6px;
+  margin-bottom: var(--space-xs);
+}
+
+.strength-bar {
+  height: 3px;
+  flex: 1;
+  background: var(--border-lighter);
+  border-radius: var(--radius-sm);
+  transition: all 0.3s ease;
+}
+
+.strength-bar.active {
+  background: var(--success);
+}
+
+/* Button styles */
+.button {
+  width: 100%;
+  padding: var(--space-md) var(--space-xl);
+  background: var(--primary);
+  color: var(--bg-white);
+  border: none;
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: var(--space-xl) 0 var(--space-md) 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.button:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(149, 184, 209, 0.3);
+}
+
+.button:disabled {
+  background: var(--text-muted);
+  cursor: not-allowed;
+  transform: none;
+}
+
+.button.loading {
+  color: transparent;
+}
+
+.loading-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 16px;
+  height: 16px;
+  border: 2px solid transparent;
+  border-top: 2px solid var(--bg-white);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+/* Bottom section */
+.overlap {
+  text-align: center;
+  position: relative;
+  padding-top: var(--space-lg);
+}
+
+.horizontal-divider {
+  height: 1px;
+  background: var(--border-lighter);
+  margin: 0 0 var(--space-sm) 0;
+}
+
+.text-wrapper-2 {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  margin-bottom: var(--space-xs);
+}
+
+.link-sign-in {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.link-sign-in:hover {
+  text-decoration: underline;
+}
+
+/* Success message */
+.success-message {
+  color: var(--success);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  text-align: center;
+  margin: var(--space-sm) 0;
+}
+
+/* API error message */
+.api-error {
+  background: #FDF8F8;
+  border: 1px solid var(--error);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm);
+  margin: var(--space-md) 0;
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  color: var(--error);
+  text-align: center;
+}

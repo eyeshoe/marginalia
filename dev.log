@@ -1,0 +1,1210 @@
+   ▲ Next.js 15.4.4
+   - Local:        http://localhost:3000
+   - Network:      http://10.183.15.154:3000
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ✓ Ready in 997ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1110ms (575 modules)
+ GET / 200 in 1272ms
+ ✓ Compiled /signup in 249ms (607 modules)
+ GET /signup 200 in 367ms
+ ✓ Compiled /api/auth/check-username in 212ms (695 modules)
+ POST /api/auth/check-username 200 in 303ms
+ GET / 200 in 118ms
+ GET / 200 in 35ms
+ GET /signup 200 in 39ms
+ GET /signup 200 in 43ms
+ GET / 200 in 47ms
+ GET / 200 in 40ms
+ GET / 200 in 49ms
+ GET / 200 in 48ms
+ GET / 200 in 48ms
+ GET / 200 in 44ms
+ GET / 200 in 43ms
+ GET / 200 in 39ms
+ GET / 200 in 39ms
+ GET / 200 in 40ms
+ GET / 200 in 40ms
+ GET / 200 in 39ms
+ GET / 200 in 38ms
+ GET / 200 in 35ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 80ms
+ GET / 200 in 30ms
+ GET / 200 in 72ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 40ms
+ GET / 200 in 44ms
+ GET / 200 in 32ms
+ GET / 200 in 43ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 30ms
+ GET / 200 in 40ms
+ GET / 200 in 29ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 38ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 39ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 40ms
+ GET / 200 in 40ms
+ GET / 200 in 31ms
+ GET / 200 in 39ms
+ GET / 200 in 36ms
+ GET / 200 in 41ms
+ GET / 200 in 39ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 42ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 38ms
+ GET / 200 in 38ms
+ GET / 200 in 34ms
+ GET / 200 in 42ms
+ GET / 200 in 42ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 39ms
+ GET / 200 in 33ms
+ GET / 200 in 41ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 39ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 32ms
+ GET / 200 in 29ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 29ms
+ GET / 200 in 30ms
+ GET / 200 in 28ms
+ GET / 200 in 42ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 30ms
+ GET / 200 in 31ms
+ GET / 200 in 30ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 28ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 27ms
+ GET / 200 in 29ms
+ GET / 200 in 29ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 25ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 48ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 31ms
+ GET / 200 in 31ms
+ GET / 200 in 43ms
+ GET / 200 in 38ms
+ GET / 200 in 39ms
+ GET / 200 in 63ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 41ms
+ GET / 200 in 34ms
+ GET / 200 in 40ms
+ GET / 200 in 35ms
+ GET / 200 in 43ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 45ms
+ GET / 200 in 37ms
+ GET / 200 in 38ms
+ GET / 200 in 37ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 43ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 40ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 30ms
+ GET / 200 in 37ms
+ GET / 200 in 40ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 28ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 39ms
+ GET / 200 in 42ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 25ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 29ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 74ms
+ GET / 200 in 36ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 42ms
+ GET / 200 in 36ms
+ GET / 200 in 29ms
+ GET / 200 in 31ms
+ GET / 200 in 37ms
+ GET / 200 in 30ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 40ms
+ GET / 200 in 29ms
+ GET / 200 in 40ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 28ms
+ GET / 200 in 27ms
+ GET / 200 in 40ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET /signup 200 in 65ms
+ GET / 200 in 33ms
+ GET /signup 200 in 45ms
+ GET / 200 in 41ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 40ms
+ GET / 200 in 40ms
+ GET / 200 in 44ms
+ GET / 200 in 40ms
+ GET / 200 in 38ms
+ GET / 200 in 39ms
+ GET / 200 in 40ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 41ms
+ GET / 200 in 39ms
+ GET / 200 in 32ms
+ GET / 200 in 40ms
+ GET / 200 in 38ms
+ GET / 200 in 43ms
+ GET / 200 in 39ms
+ GET / 200 in 39ms
+ GET / 200 in 33ms
+ GET / 200 in 30ms
+ GET / 200 in 35ms
+ GET / 200 in 38ms
+ GET / 200 in 39ms
+ GET / 200 in 40ms
+ GET / 200 in 39ms
+ GET / 200 in 192ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 30ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 28ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 29ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 41ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 38ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 122ms
+ GET / 200 in 39ms
+ GET / 200 in 39ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 37ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 28ms
+ GET / 200 in 39ms
+ GET / 200 in 41ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 27ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 30ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 31ms
+ GET / 200 in 30ms
+ GET / 200 in 33ms
+ GET / 200 in 26ms
+ GET / 200 in 38ms
+ GET / 200 in 38ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 35ms
+ GET / 200 in 30ms
+ GET / 200 in 40ms
+ GET / 200 in 42ms
+ GET / 200 in 39ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 41ms
+ GET / 200 in 38ms
+ GET / 200 in 34ms
+ GET / 200 in 40ms
+ GET / 200 in 36ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 40ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 42ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 62ms
+ GET / 200 in 35ms
+ GET / 200 in 38ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 41ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 28ms
+ GET / 200 in 30ms
+ GET / 200 in 30ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 40ms
+ GET / 200 in 37ms
+ GET / 200 in 40ms
+ GET / 200 in 40ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 38ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 28ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 29ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 38ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 40ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ ✓ Compiled /_not-found in 371ms (613 modules)
+ GET / 404 in 593ms
+ GET / 200 in 49ms
+ GET / 200 in 48ms
+ GET / 200 in 37ms
+ GET / 200 in 30ms
+ GET / 200 in 38ms
+ GET / 200 in 36ms
+ GET / 200 in 39ms
+ GET / 200 in 38ms
+ GET / 200 in 44ms
+ GET / 200 in 43ms
+ GET / 200 in 39ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 38ms
+ GET / 200 in 38ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 38ms
+ GET / 200 in 34ms
+ GET / 200 in 41ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 42ms
+ GET / 200 in 39ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 29ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 30ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 37ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 41ms
+ GET / 200 in 46ms
+ GET / 200 in 28ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 40ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 29ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 30ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 38ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 28ms
+ GET / 200 in 40ms
+ GET / 200 in 37ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 39ms
+ GET / 200 in 37ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 27ms
+ GET / 200 in 35ms
+ GET / 200 in 31ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 30ms
+ GET / 200 in 31ms
+ GET / 200 in 30ms
+ GET / 200 in 29ms
+ GET / 200 in 29ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 41ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 29ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 30ms
+ GET / 200 in 30ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 43ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 28ms
+ GET / 200 in 36ms
+ GET / 200 in 27ms
+ GET / 200 in 28ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 28ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 40ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 29ms
+ GET / 200 in 28ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 27ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 27ms
+ GET / 200 in 31ms
+ GET / 200 in 29ms
+ GET / 200 in 33ms
+ GET / 200 in 29ms
+ GET / 200 in 28ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 38ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 30ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 48ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 35ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 30ms
+ GET / 200 in 30ms
+ GET / 200 in 29ms
+ GET / 200 in 39ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 40ms
+ GET / 200 in 38ms
+ GET / 200 in 33ms
+ GET / 200 in 30ms
+ GET / 200 in 26ms
+ GET / 200 in 35ms
+ GET / 200 in 46ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 30ms
+ GET / 200 in 36ms
+ GET / 200 in 37ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 36ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 28ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 32ms
+ GET / 200 in 39ms
+ GET / 200 in 30ms
+ GET / 200 in 41ms
+ GET / 200 in 30ms
+ GET / 200 in 36ms
+ GET / 200 in 28ms
+ GET / 200 in 40ms
+ GET / 200 in 31ms
+ GET / 200 in 34ms
+ GET / 200 in 29ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 29ms
+ GET / 200 in 34ms
+ GET / 200 in 35ms
+ GET / 200 in 31ms
+ GET / 200 in 35ms
+ GET / 200 in 39ms
+ GET / 200 in 34ms
+ GET / 200 in 30ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 30ms
+ GET / 200 in 30ms
+ GET / 200 in 28ms
+ GET / 200 in 44ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 37ms
+ GET / 200 in 52ms
+ GET / 200 in 29ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 36ms
+ GET / 200 in 43ms
+ GET / 200 in 31ms
+ GET / 200 in 44ms
+ GET / 200 in 33ms
+ GET / 200 in 28ms
+ GET / 200 in 29ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 27ms
+ GET / 200 in 32ms
+ GET / 200 in 31ms
+ GET / 200 in 39ms
+ GET / 200 in 30ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 29ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 25ms
+ GET / 200 in 30ms
+ GET / 200 in 34ms
+ GET / 200 in 27ms
+ GET / 200 in 32ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 38ms
+ GET / 200 in 34ms
+ GET / 200 in 31ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 33ms
+ GET / 200 in 31ms
+ GET / 200 in 31ms
+ GET / 200 in 29ms
+ GET / 200 in 30ms
+ GET / 200 in 36ms
+ GET / 200 in 33ms
+ GET / 200 in 35ms
+ GET / 200 in 32ms
+ GET / 200 in 34ms
+ GET / 200 in 33ms
+ GET / 200 in 34ms
+ GET / 200 in 27ms
+ GET / 200 in 31ms
+ GET / 200 in 30ms
+ GET / 200 in 31ms
+ GET / 200 in 33ms
+ GET / 200 in 32ms
+ GET / 200 in 35ms
+ GET / 200 in 29ms
+ GET / 200 in 36ms
+ GET / 200 in 32ms
+ GET / 200 in 33ms
+ GET / 200 in 37ms
+ GET / 200 in 28ms
+ GET / 200 in 32ms
+ GET / 200 in 25ms
+ ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './FillerTextYesYes'
+  2 |
+  3 | import React from "react";
+> 4 | import { FillerTextYesYes } from "./FillerTextYesYes";
+    | ^
+  5 | import rectangle1 from "./rectangle-1.png";
+  6 | import rectangle2 from "./rectangle-2.png";
+  7 | import rectangle3 from "./rectangle-3.png";
+
+https://nextjs.org/docs/messages/module-not-found
+ ⨯ ./app/page.tsx:4:1
+Module not found: Can't resolve './FillerTextYesYes'
+  2 |
+  3 | import React from "react";
+> 4 | import { FillerTextYesYes } from "./FillerTextYesYes";
+    | ^
+  5 | import rectangle1 from "./rectangle-1.png";
+  6 | import rectangle2 from "./rectangle-2.png";
+  7 | import rectangle3 from "./rectangle-3.png";
+
+https://nextjs.org/docs/messages/module-not-found
+ ○ Compiling /_error ...
+ GET / 500 in 1084ms
+ GET / 500 in 385ms
+ GET / 500 in 11ms
+ GET / 500 in 6ms
+ GET / 500 in 20ms
+ GET / 500 in 14ms
+ GET / 500 in 24ms
+ GET / 500 in 24ms
+ GET / 500 in 24ms
+ GET / 500 in 21ms
+ GET / 500 in 15ms
+ GET / 500 in 16ms
+ GET / 500 in 23ms
+ ✓ Compiled /_not-found in 876ms (941 modules)
+ GET /_next/static/webpack/2d3981c83d675796.webpack.hot-update.json 404 in 910ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 38ms
+ ✓ Compiled in 590ms (955 modules)
+ ⨯ ./app/landing-page.css:1:1
+Syntax error: /Users/aishu/Desktop/marginalia/app/landing-page.css Unknown word
+
+> 1 | "use client";
+    | ^
+  2 | import "./landing-page.css";
+  3 | import React from "react";
+ GET / 500 in 47ms
+ GET / 500 in 14ms
+ ⨯ ./app/landing-page.css:1:1
+Syntax error: /Users/aishu/Desktop/marginalia/app/landing-page.css Unknown word
+
+> 1 | "use client";
+    | ^
+  2 | import "./landing-page.css";
+  3 | import React from "react";
+ ✓ Compiled in 157ms (955 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 200ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 589ms (945 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/4.pack.gz_' -> '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/4.pack.gz'
+ ⨯ ./app/page.tsx:5:1
+Module not found: Can't resolve '../components/common/DotBackground'
+  3 | import React from "react";
+  4 | import { useRouter } from "next/navigation";
+> 5 | import DotBackground from "../components/common/DotBackground";
+    | ^
+  6 |
+  7 | export default function WelcomePage() {
+  8 |   const router = useRouter();
+
+https://nextjs.org/docs/messages/module-not-found
+ ✓ Compiled in 522ms (947 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/6819ab829c5de4dd.webpack.hot-update.json 404 in 522ms
+ GET / 200 in 48ms
+ ✓ Compiled in 625ms (947 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/5423075ee25662a9.webpack.hot-update.json 404 in 484ms
+ GET / 200 in 38ms
+ ✓ Compiled in 522ms (947 modules)
+ GET / 200 in 78ms
+ ✓ Compiled in 552ms (945 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/c62cd2e8a63bea86.webpack.hot-update.json 404 in 454ms
+ ⨯ ReferenceError: DotB is not defined
+    at WelcomePage (app/page.tsx:13:7)
+  11 |     <>
+  12 |       {/* Your new reusable dot background component */}
+> 13 |       <DotB />
+     |       ^
+  14 |       
+  15 |       <div className="landing-container">
+  16 |         <h1>marginalia</h1> {
+  digest: '1637864061'
+}
+ GET / 500 in 53ms
+ ✓ Compiled in 153ms (945 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ ReferenceError: DotGrid is not defined
+    at WelcomePage (app/page.tsx:13:7)
+  11 |     <>
+  12 |       {/* Your new reusable dot background component */}
+> 13 |       <DotGrid />
+     |       ^
+  14 |       
+  15 |       <div className="landing-container">
+  16 |         <h1>marginalia</h1> {
+  digest: '441196359'
+}
+ GET / 500 in 127ms
+ ✓ Compiled in 294ms (947 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 101ms
+ ✓ Compiled in 396ms (947 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/3e142957fd318319.webpack.hot-update.json 404 in 361ms
+ GET / 200 in 34ms
+ GET / 200 in 36ms
+ ✓ Compiled in 437ms (957 modules)
+ GET / 200 in 119ms
+ ✓ Compiled /_not-found in 176ms (947 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/4ebb73dbc43e1fa6.webpack.hot-update.json 404 in 247ms
+ GET / 200 in 23ms
+ ✓ Compiled in 148ms (962 modules)
+ GET / 200 in 60ms
+ ✓ Compiled in 188ms (405 modules)
+ GET / 200 in 234ms
+ ✓ Compiled in 407ms (942 modules)
+ ✓ Compiled in 157ms (957 modules)
+ GET / 200 in 97ms
+ ✓ Compiled in 465ms (942 modules)
+ GET / 200 in 102ms
+ ✓ Compiled in 343ms (955 modules)
+ GET / 200 in 155ms
+ GET / 200 in 74ms
+ GET /signup 200 in 40ms
+ ✓ Compiled in 261ms (941 modules)
+ ✓ Compiled /_not-found in 402ms (946 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/a9ec3f25b54ddde8.webpack.hot-update.json 404 in 530ms
+ GET / 200 in 36ms
+ ✓ Compiled in 1182ms (941 modules)
+ ✓ Compiled in 392ms (955 modules)
+ GET / 200 in 149ms
+ GET / 200 in 100ms
+ ✓ Compiled in 321ms (941 modules)
+ ✓ Compiled in 448ms (941 modules)
+ ✓ Compiled in 192ms (955 modules)
+ GET / 200 in 75ms
+ ✓ Compiled in 481ms (941 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/3.pack.gz_' -> '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/3.pack.gz'
+ ✓ Compiled in 284ms (941 modules)
+ ✓ Compiled in 480ms (955 modules)
+ GET / 200 in 108ms
+ ✓ Compiled in 168ms (941 modules)
+ ⨯ ./app/page.tsx:5:1
+Module not found: Can't resolve './components/common/DotGrid'
+  3 | import React from "react";
+  4 | import { useRouter } from "next/navigation";
+> 5 | import DotGrid from "./components/common/DotGrid";
+    | ^
+  6 |
+  7 | export default function WelcomePage() {
+  8 |   const router = useRouter();
+
+https://nextjs.org/docs/messages/module-not-found
+ ⨯ ./app/page.tsx
+Error:   [31mx[0m Unexpected token `mkdir`. Expected a string literal
+   ,-[[36;1;4m/Users/aishu/Desktop/marginalia/app/page.tsx[0m:6:1]
+ [2m3[0m | import React from "react";
+ [2m4[0m | import { useRouter } from "next/navigation";
+ [2m5[0m | import DotGrid from 
+ [2m6[0m | mkdir -p app/components/common && touch app/components/common/DotGrid.tsx
+   : [35;1m^^^^^[0m
+ [2m7[0m | 
+ [2m8[0m | ``````
+ [2m9[0m | import React from 'react';
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ ⨯ ./app/page.tsx:5:1
+Module not found: Can't resolve './components/common/DotGrid'
+  3 | import React from "react";
+  4 | import { useRouter } from "next/navigation";
+> 5 | import DotGrid from "./components/common/DotGrid";
+    | ^
+  6 |
+  7 | export default function WelcomePage() {
+  8 |   const router = useRouter();
+
+https://nextjs.org/docs/messages/module-not-found
+ ⨯ ./app/page.tsx
+Error:   [31mx[0m Unterminated string constant
+   ,-[[36;1;4m/Users/aishu/Desktop/marginalia/app/page.tsx[0m:5:1]
+ [2m2[0m | import "./landing-page.css";
+ [2m3[0m | import React from "react";
+ [2m4[0m | import { useRouter } from "next/navigation";
+ [2m5[0m | import DotGrid from "./components/common/DotGrid.;
+   : [35;1m                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+ [2m6[0m | 
+ [2m7[0m | export default function WelcomePage() {
+ [2m8[0m |   const router = useRouter();
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ ⨯ ./app/page.tsx
+Error:   [31mx[0m Unterminated string constant
+   ,-[[36;1;4m/Users/aishu/Desktop/marginalia/app/page.tsx[0m:5:1]
+ [2m2[0m | import "./landing-page.css";
+ [2m3[0m | import React from "react";
+ [2m4[0m | import { useRouter } from "next/navigation";
+ [2m5[0m | import DotGrid from "./components/common/DotGrid.tsx;
+   : [35;1m                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+ [2m6[0m | 
+ [2m7[0m | export default function WelcomePage() {
+ [2m8[0m |   const router = useRouter();
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/page.tsx
+ ⨯ ./app/page.tsx:5:1
+Module not found: Can't resolve './components/common/DotGrid.tsx'
+  3 | import React from "react";
+  4 | import { useRouter } from "next/navigation";
+> 5 | import DotGrid from "./components/common/DotGrid.tsx";
+    | ^
+  6 |
+  7 | export default function WelcomePage() {
+  8 |   const router = useRouter();
+
+https://nextjs.org/docs/messages/module-not-found
+ ⨯ ./app/page.tsx:5:1
+Module not found: Can't resolve './components/common/DotGrid'
+  3 | import React from "react";
+  4 | import { useRouter } from "next/navigation";
+> 5 | import DotGrid from "./components/common/DotGrid";
+    | ^
+  6 |
+  7 | export default function WelcomePage() {
+  8 |   const router = useRouter();
+
+https://nextjs.org/docs/messages/module-not-found
+ ✓ Compiled in 388ms (941 modules)
+ ✓ Compiled in 148ms (941 modules)
+ ✓ Compiled in 293ms (941 modules)
+ ✓ Compiled in 402ms (941 modules)
+ ✓ Compiled in 262ms (941 modules)
+ ✓ Compiled in 181ms (955 modules)
+ GET / 200 in 99ms
+ ✓ Compiled in 402ms (955 modules)
+ GET / 200 in 145ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/0.pack.gz_' -> '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/aishu/Desktop/marginalia/.next/cache/webpack/server-development/4.pack.gz_' -> '/Users/aishu/Desktop/marginalia/.next/cache/webpack/server-development/4.pack.gz'
+ GET / 200 in 110ms
+ GET /signup 200 in 39ms
+ ✓ Compiled in 579ms (890 modules)
+ ✓ Compiled /_not-found in 297ms (881 modules)
+ GET /_next/static/webpack/33ac5724c71176eb.webpack.hot-update.json 404 in 476ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /signup 200 in 37ms
+ ✓ Compiled in 250ms (895 modules)
+ GET / 200 in 178ms
+ GET /signup 200 in 178ms
+ ⨯ ./components/auth/SignUpForm.tsx:5:1
+Module not found: Can't resolve '../common/Button'
+  3 | import WashiTape from "../common/WashiTape";
+  4 | import FormInput from "../common/FormInput";
+> 5 | import Button from "../common/Button";
+    | ^
+  6 | import { authAPI } from "../../services/api/auth";
+  7 | import { validateSignUp } from "../../services/validation/authValidation";
+  8 | import usePasswordStrength from "../../hooks/usePasswordStrength";
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./app/signup/page.tsx
+ ✓ Compiled in 496ms (872 modules)
+ ✓ Compiled in 455ms (888 modules)
+ GET / 200 in 150ms
+ GET /signup 200 in 149ms
+ ✓ Compiled in 286ms (888 modules)
+ GET /signup 200 in 86ms
+ GET / 200 in 88ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/4.pack.gz_' -> '/Users/aishu/Desktop/marginalia/.next/cache/webpack/client-development/4.pack.gz'
+ GET /signup 200 in 22ms

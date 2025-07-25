@@ -1,0 +1,120 @@
+/* Import design tokens */
+@import '../components/ui/design-tokens.css';
+
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  overflow-x: hidden;
+}
+
+/* Backup dot grid class - just in case */
+.landing-dot-grid {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: radial-gradient(circle, #E8E6E3 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+  opacity: 0.6;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Main container */
+.landing-container {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  z-index: 2;  /* Higher than dots */
+}
+
+/* Main heading */
+.landing-container h1 {
+  font-family: 'Buenard', serif;
+  font-size: 64px;
+  font-weight: 700;
+  color: #2C2C2C;
+  text-align: center;
+  margin-bottom: 24px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+/* Tagline */
+.landing-tagline {
+  font-family: 'Caveat', cursive;
+  font-size: 28px;
+  color: #6B6B6B;
+  text-align: center;
+  margin-bottom: 48px;
+  font-style: italic;
+  max-width: 600px;
+  line-height: 1.3;
+}
+
+/* Button container */
+.landing-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+  max-width: 280px;
+}
+
+/* Primary button */
+.landing-btn-primary {
+  width: 100%;
+  padding: 16px 24px;
+  background-color: #95B8D1;
+  color: white;
+  border: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.landing-btn-primary:hover {
+  background-color: #7DA3C0;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(149, 184, 209, 0.3);
+}
+
+/* Secondary button */
+.landing-btn-secondary {
+  width: 100%;
+  padding: 14px 24px;
+  background-color: #FEFDFB;  /* Solid background instead of transparent */
+  color: #6B6B6B;
+  border: 2px solid #E8E6E3;
+  font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.landing-btn-secondary:hover {
+  background-color: #E8E6E3;
+  color: #2C2C2C;
+  transform: translateY(-2px);
+}
